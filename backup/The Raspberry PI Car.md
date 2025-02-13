@@ -22,6 +22,8 @@ During the assembly, we failed to connected all the wires successfully because w
 
 # Week 2
 ## Handle the issue with week1
+### Problem 1 :  to prevent movement issue
 If the coupling of a regular tire is ground unevenly, the movement of the small vehicle will be affected. However, this issue does not occur when using Mecanum wheels.
 
+### Problem 2 : make battery removal easier
 Using zip ties instead of glue to secure the battery can prevent situations where wiring errors make battery removal impossible, as some wires are located on the back of the battery.”
