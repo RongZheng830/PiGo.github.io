@@ -20,6 +20,10 @@ During the assembly, we failed to connected all the wires successfully because w
 ### Problem 2 : replace with a longer zip tie
   During assembly, it was found that the purchased zip ties were too short. Some couldn’t be fastened due to space occupied by other components, so longer zip ties were purchased. (2.5*200mm)
 
+![Image](https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228)
+
+![Image](https://github.com/user-attachments/assets/170ca9c8-4256-494b-b975-f715867c8bc7)
+
 # Week 2
 ## Handle the issue with week1
 ### Problem 1 :  to prevent movement issue
