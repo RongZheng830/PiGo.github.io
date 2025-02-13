@@ -41,4 +41,6 @@ Activate the virtual environment matters a lot. Before configuring WiFi, SSH and
 ### Connect WiFi
 Found that wireless connection to the school's campus network was not possible. 
 
+# Week 3
+## Import the test code for motion
 https://github.com/user-attachments/assets/54dea60a-673d-4c7d-876b-521545ffd85a
