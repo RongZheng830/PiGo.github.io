@@ -31,8 +31,8 @@ Using zip ties instead of glue to secure the battery can prevent situations wher
 ## Burn raspberry Pi OS to an SD Card
  Download and install Raspberry Pi Imager. Then Insert the SD card. After selecting SD card and  Operating System, Burning can be stared. Wait for the writing process to complete, and the Imager will automatically eject the SD card. After Burning is complete, it is required to configure WiFi, SSH and  language...
  
-## Create  a virtual environment 
+###Create  a virtual environment 
 Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.
 
-## Connect WiFi
+###Connect WiFi
 Found that wireless connection to the school's campus network was not possible.
