@@ -19,3 +19,9 @@ During the assembly, we failed to connected all the wires successfully because w
   When the materials were delivered, it was discovered that the caster wheel was missing. By analyzing the connected shaft, the model of the coupling and the wheel was determined. After Assembly, it was found that the coupling of the selected TT motor was too long, so its length was shortened to fit the wheel.
 ### Problem 2 : replace with a longer zip tie
   During assembly, it was found that the purchased zip ties were too short. Some couldn’t be fastened due to space occupied by other components, so longer zip ties were purchased. (2.5*200mm)
+
+# Week 2
+## Handle the issue with week1
+If the coupling of a regular tire is ground unevenly, the movement of the small vehicle will be affected. However, this issue does not occur when using Mecanum wheels.
+
+Using zip ties instead of glue to secure the battery can prevent situations where wiring errors make battery removal impossible, as some wires are located on the back of the battery.”
