@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
+![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)))
 
 # Week 1
 
@@ -39,4 +39,6 @@ Using zip ties instead of glue to secure the battery can prevent situations wher
 Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.
 
 ### Connect WiFi
-Found that wireless connection to the school's campus network was not possible.
+Found that wireless connection to the school's campus network was not possible. 
+
+https://github.com/user-attachments/assets/54dea60a-673d-4c7d-876b-521545ffd85a

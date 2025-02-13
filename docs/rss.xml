@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Raspberry Pi Car</title><link>https://RongZheng830.github.io/PiGo.github.io</link><description>Year 2 Project</description><copyright>Raspberry Pi Car</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RongZheng830.github.io/PiGo.github.io</link></image><lastBuildDate>Thu, 13 Feb 2025 11:06:52 +0000</lastBuildDate><managingEditor>Raspberry Pi Car</managingEditor><ttl>60</ttl><webMaster>Raspberry Pi Car</webMaster><item><title>The Raspberry PI Car</title><link>https://RongZheng830.github.io/PiGo.github.io/post/The%20Raspberry%20PI%20Car.html</link><description>![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Raspberry Pi Car</title><link>https://RongZheng830.github.io/PiGo.github.io</link><description>Year 2 Project</description><copyright>Raspberry Pi Car</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RongZheng830.github.io/PiGo.github.io</link></image><lastBuildDate>Thu, 13 Feb 2025 11:57:33 +0000</lastBuildDate><managingEditor>Raspberry Pi Car</managingEditor><ttl>60</ttl><webMaster>Raspberry Pi Car</webMaster><item><title>The Raspberry PI Car</title><link>https://RongZheng830.github.io/PiGo.github.io/post/The%20Raspberry%20PI%20Car.html</link><description>![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)))
 
 # Week 1
 
@@ -40,4 +40,6 @@ Using zip ties instead of glue to secure the battery can prevent situations wher
 Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.
 
 ### Connect WiFi
-Found that wireless connection to the school's campus network was not possible.。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/The%20Raspberry%20PI%20Car.html</guid><pubDate>Mon, 03 Feb 2025 20:13:01 +0000</pubDate></item></channel></rss>
+Found that wireless connection to the school's campus network was not possible. 
+
+https://github.com/user-attachments/assets/54dea60a-673d-4c7d-876b-521545ffd85a。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/The%20Raspberry%20PI%20Car.html</guid><pubDate>Mon, 03 Feb 2025 20:13:01 +0000</pubDate></item></channel></rss>
