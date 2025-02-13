@@ -43,11 +43,6 @@ Found that wireless connection to the school's campus network was not possible.
 
 # Week 3
 ## Import the test code for motion
-<video width="100%" controls>
-  <source src="
 
-https://github.com/user-attachments/assets/438f557d-7327-4f3f-a7c5-61a362750d10
+https://github.com/user-attachments/assets/88ca1e65-974f-42fb-89ca-8961f8ad8abe
 
-">
-  Your browser does not support the video tag.
-</video>
