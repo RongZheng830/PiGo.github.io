@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)))
+![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
 
 # Week 1
 
@@ -54,3 +54,5 @@ The computer vision part is based on OpenCV for target recognition and path trac
 Lifting the camera up and pointing it at the group's face, an inspection of the program's runtime screen revealed that accurate face recognition was indeed available. The car stopped running when a face was recognized.
 
 ![Image](https://github.com/user-attachments/assets/1e710760-4593-4bf8-a752-5277a49673dd)
+# week4
+## 
