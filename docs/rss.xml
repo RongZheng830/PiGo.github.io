@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Raspberry Pi Car</title><link>https://RongZheng830.github.io/PiGo.github.io</link><description>Year 2 Project</description><copyright>Raspberry Pi Car</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RongZheng830.github.io/PiGo.github.io</link></image><lastBuildDate>Mon, 24 Feb 2025 16:44:00 +0000</lastBuildDate><managingEditor>Raspberry Pi Car</managingEditor><ttl>60</ttl><webMaster>Raspberry Pi Car</webMaster><item><title>Week1</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week1.html</link><description>![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Raspberry Pi Car</title><link>https://RongZheng830.github.io/PiGo.github.io</link><description>Year 2 Project</description><copyright>Raspberry Pi Car</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RongZheng830.github.io/PiGo.github.io</link></image><lastBuildDate>Mon, 24 Feb 2025 16:44:57 +0000</lastBuildDate><managingEditor>Raspberry Pi Car</managingEditor><ttl>60</ttl><webMaster>Raspberry Pi Car</webMaster><item><title>Week4</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week4.html</link><description># week4
+## visual cruise test
+In the visual cruise test, it was found in the program interface that the camera could accurately identify and outline the black area,.
+## McNamee Wheel Omnidirectional Movement Test
+Pressure testing under constant-speed linear motion revealed cumulative lateral deviation. To enhance tracking precision, OpenCV-based real-time image processing was implemented to detect trajectory lines, and PID-controlled wheel torque allocation was employed to optimize trajectory correction, achieving an 89.7% reduction in lateral deviation.
+## Infrared Obstacle Avoidance Performance Test
+The obstacle avoidance ability of the cart was tested by placing obstacles of different sizes and materials in an open environment.。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/Week4.html</guid><pubDate>Mon, 24 Feb 2025 16:34:57 +0000</pubDate></item><item><title>Week3</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week3.html</link><description># Week 3
+## Import the test code for motion
+ We successfully resolved the network connection issue. Now we can test the code for the car's operation.
+https://github.com/user-attachments/assets/11ad9070-86e4-4351-91ab-22c2cbb3d37e
+Therefore, we have confirmed that the car and the code can function properly.
+## OpenCV
+The computer vision part is based on OpenCV for target recognition and path tracking. The camera can capture real-time images of the environment. After that, through the color space conversion, identify the target color and Canny algorithm to identify the path or obstacle contour, match the contour detection with the shape to achieve the identification and tracking of specific targets. Next, the algorithm is used to lock the target and adjust the direction of travel of the trolley according to the target position to realize autonomous tracking. Finally, by detecting the road edge line through the Hough transform and combining with the PID control algorithm, the trajectory of the McNamee wheel is adjusted to stabilize the trolley along the predetermined path.
+##  Face Recognition 
+Lifting the camera up and pointing it at the group's face, an inspection of the program's runtime screen revealed that accurate face recognition was indeed available. The car stopped running when a face was recognized.
+
+![Image](https://github.com/user-attachments/assets/1e710760-4593-4bf8-a752-5277a49673dd)。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/Week3.html</guid><pubDate>Mon, 24 Feb 2025 16:33:30 +0000</pubDate></item><item><title>Week2</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week2.html</link><description>![Image](https://github.com/user-attachments/assets/170ca9c8-4256-494b-b975-f715867c8bc7)
+
+# Week 2
+## Handle the issue with week1
+### Problem 1 :  to prevent movement issue
+If the coupling of a regular tire is ground unevenly, the movement of the small vehicle will be affected. However, this issue does not occur when using Mecanum wheels. The wheels were successfully installed. During the final test, one wheel was found to be slightly loose.
+
+![Image](https://github.com/user-attachments/assets/e7877508-a7ca-456c-b919-a7c7dc40d365)
+
+### Problem 2 : make battery removal easier
+Using zip ties instead of glue to secure the battery can prevent situations where wiring errors make battery removal impossible, as some wires are located on the back of the battery. After removing the previously zip ties which are tangled complicatedly, the battery was secured with a simpler binding method.
+
+## Burn raspberry Pi OS to an SD Card
+ Download and install Raspberry Pi Imager. Then Insert the SD card. After selecting SD card and  Operating System, Burning can be stared. Wait for the writing process to complete, and the Imager will automatically eject the SD card. After Burning is complete, it is required to configure WiFi, SSH and  language...
+ 
+### Create  a virtual environment 
+Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.
+
+### Connect WiFi
+Found that wireless connection to the school's campus network was not possible. 
+。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/Week2.html</guid><pubDate>Mon, 24 Feb 2025 16:32:58 +0000</pubDate></item><item><title>Week1</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week1.html</link><description>![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
 
 # Week 1
 
