@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Raspberry Pi Car</title><link>https://RongZheng830.github.io/PiGo.github.io</link><description>Year 2 Project</description><copyright>Raspberry Pi Car</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RongZheng830.github.io/PiGo.github.io</link></image><lastBuildDate>Mon, 24 Feb 2025 16:32:24 +0000</lastBuildDate><managingEditor>Raspberry Pi Car</managingEditor><ttl>60</ttl><webMaster>Raspberry Pi Car</webMaster><item><title>Week1</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week1.html</link><description>![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
+![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
 
 # Week 1
 
@@ -59,4 +58,4 @@ Lifting the camera up and pointing it at the group's face, an inspection of the 
 ## visual cruise test
 In the visual cruise test, it was found in the program interface that the camera could accurately identify and outline the black area,.
 ## McNamee Wheel Omnidirectional Movement Test
-Pressure testing under constant-speed linear motion revealed cumulative lateral deviation. To enhance tracking precision, OpenCV-based real-time image processing was implemented to detect trajectory lines, and PID-controlled wheel torque allocation was employed to optimize trajectory correction, achieving an 89.7% reduction in lateral deviation.。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/Week1.html</guid><pubDate>Mon, 03 Feb 2025 20:13:01 +0000</pubDate></item></channel></rss>
+Pressure testing under constant-speed linear motion revealed cumulative lateral deviation. To enhance tracking precision, OpenCV-based real-time image processing was implemented to detect trajectory lines, and PID-controlled wheel torque allocation was employed to optimize trajectory correction, achieving an 89.7% reduction in lateral deviation.
