@@ -32,45 +32,7 @@ During the assembly, we failed to connected all the wires successfully because w
 ### Problem 2 : replace with a longer zip tie
   During assembly, it was found that the purchased zip ties were too short. Some couldn’t be fastened due to space occupied by other components, so longer zip ties were purchased. (2.5*200mm)
 
-![Image](https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228)
-
-![Image](https://github.com/user-attachments/assets/170ca9c8-4256-494b-b975-f715867c8bc7)
-
-# Week 2
-## Handle the issue with week1
-### Problem 1 :  to prevent movement issue
-If the coupling of a regular tire is ground unevenly, the movement of the small vehicle will be affected. However, this issue does not occur when using Mecanum wheels. The wheels were successfully installed. During the final test, one wheel was found to be slightly loose.
-
-![Image](https://github.com/user-attachments/assets/e7877508-a7ca-456c-b919-a7c7dc40d365)
-
-### Problem 2 : make battery removal easier
-Using zip ties instead of glue to secure the battery can prevent situations where wiring errors make battery removal impossible, as some wires are located on the back of the battery. After removing the previously zip ties which are tangled complicatedly, the battery was secured with a simpler binding method.
-
-## Burn raspberry Pi OS to an SD Card
- Download and install Raspberry Pi Imager. Then Insert the SD card. After selecting SD card and  Operating System, Burning can be stared. Wait for the writing process to complete, and the Imager will automatically eject the SD card. After Burning is complete, it is required to configure WiFi, SSH and  language...
- 
-### Create  a virtual environment 
-Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.
-
-### Connect WiFi
-Found that wireless connection to the school's campus network was not possible. 
-
-# Week 3
-## Import the test code for motion
- We successfully resolved the network connection issue. Now we can test the code for the car's operation.
-https://github.com/user-attachments/assets/11ad9070-86e4-4351-91ab-22c2cbb3d37e
-Therefore, we have confirmed that the car and the code can function properly.
-## OpenCV
-The computer vision part is based on OpenCV for target recognition and path tracking. The camera can capture real-time images of the environment. After that, through the color space conversion, identify the target color and Canny algorithm to identify the path or obstacle contour, match the contour detection with the shape to achieve the identification and tracking of specific targets. Next, the algorithm is used to lock the target and adjust the direction of travel of the trolley according to the target position to realize autonomous tracking. Finally, by detecting the road edge line through the Hough transform and combining with the PID control algorithm, the trajectory of the McNamee wheel is adjusted to stabilize the trolley along the predetermined path.
-##  Face Recognition 
-Lifting the camera up and pointing it at the group's face, an inspection of the program's runtime screen revealed that accurate face recognition was indeed available. The car stopped running when a face was recognized.
-
-![Image](https://github.com/user-attachments/assets/1e710760-4593-4bf8-a752-5277a49673dd)
-# week4
-## visual cruise test
-In the visual cruise test, it was found in the program interface that the camera could accurately identify and outline the black area,.
-## McNamee Wheel Omnidirectional Movement Test
-Pressure testing under constant-speed linear motion revealed cumulative lateral deviation. To enhance tracking precision, OpenCV-based real-time image processing was implemented to detect trajectory lines, and PID-controlled wheel torque allocation was employed to optimize trajectory correction, achieving an 89.7% reduction in lateral deviation.。">
+![Image](https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228)。">
 <meta property="og:title" content="Week1">
 <meta property="og:description" content="![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
 
@@ -94,45 +56,7 @@ During the assembly, we failed to connected all the wires successfully because w
 ### Problem 2 : replace with a longer zip tie
   During assembly, it was found that the purchased zip ties were too short. Some couldn’t be fastened due to space occupied by other components, so longer zip ties were purchased. (2.5*200mm)
 
-![Image](https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228)
-
-![Image](https://github.com/user-attachments/assets/170ca9c8-4256-494b-b975-f715867c8bc7)
-
-# Week 2
-## Handle the issue with week1
-### Problem 1 :  to prevent movement issue
-If the coupling of a regular tire is ground unevenly, the movement of the small vehicle will be affected. However, this issue does not occur when using Mecanum wheels. The wheels were successfully installed. During the final test, one wheel was found to be slightly loose.
-
-![Image](https://github.com/user-attachments/assets/e7877508-a7ca-456c-b919-a7c7dc40d365)
-
-### Problem 2 : make battery removal easier
-Using zip ties instead of glue to secure the battery can prevent situations where wiring errors make battery removal impossible, as some wires are located on the back of the battery. After removing the previously zip ties which are tangled complicatedly, the battery was secured with a simpler binding method.
-
-## Burn raspberry Pi OS to an SD Card
- Download and install Raspberry Pi Imager. Then Insert the SD card. After selecting SD card and  Operating System, Burning can be stared. Wait for the writing process to complete, and the Imager will automatically eject the SD card. After Burning is complete, it is required to configure WiFi, SSH and  language...
- 
-### Create  a virtual environment 
-Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.
-
-### Connect WiFi
-Found that wireless connection to the school's campus network was not possible. 
-
-# Week 3
-## Import the test code for motion
- We successfully resolved the network connection issue. Now we can test the code for the car's operation.
-https://github.com/user-attachments/assets/11ad9070-86e4-4351-91ab-22c2cbb3d37e
-Therefore, we have confirmed that the car and the code can function properly.
-## OpenCV
-The computer vision part is based on OpenCV for target recognition and path tracking. The camera can capture real-time images of the environment. After that, through the color space conversion, identify the target color and Canny algorithm to identify the path or obstacle contour, match the contour detection with the shape to achieve the identification and tracking of specific targets. Next, the algorithm is used to lock the target and adjust the direction of travel of the trolley according to the target position to realize autonomous tracking. Finally, by detecting the road edge line through the Hough transform and combining with the PID control algorithm, the trajectory of the McNamee wheel is adjusted to stabilize the trolley along the predetermined path.
-##  Face Recognition 
-Lifting the camera up and pointing it at the group's face, an inspection of the program's runtime screen revealed that accurate face recognition was indeed available. The car stopped running when a face was recognized.
-
-![Image](https://github.com/user-attachments/assets/1e710760-4593-4bf8-a752-5277a49673dd)
-# week4
-## visual cruise test
-In the visual cruise test, it was found in the program interface that the camera could accurately identify and outline the black area,.
-## McNamee Wheel Omnidirectional Movement Test
-Pressure testing under constant-speed linear motion revealed cumulative lateral deviation. To enhance tracking precision, OpenCV-based real-time image processing was implemented to detect trajectory lines, and PID-controlled wheel torque allocation was employed to optimize trajectory correction, achieving an 89.7% reduction in lateral deviation.。">
+![Image](https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228)。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://RongZheng830.github.io/PiGo.github.io/post/Week1.html">
 <meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
@@ -207,36 +131,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p>When the materials were delivered, it was discovered that the caster wheel was missing. By analyzing the connected shaft, the model of the coupling and the wheel was determined. After Assembly, it was found that the coupling of the selected TT motor was too long, so its length was shortened to fit the wheel.</p>
 <h3>Problem 2 : replace with a longer zip tie</h3>
 <p>During assembly, it was found that the purchased zip ties were too short. Some couldn’t be fastened due to space occupied by other components, so longer zip ties were purchased. (2.5*200mm)</p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228"><img src="https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228" alt="Image" style="max-width: 100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/170ca9c8-4256-494b-b975-f715867c8bc7"><img src="https://github.com/user-attachments/assets/170ca9c8-4256-494b-b975-f715867c8bc7" alt="Image" style="max-width: 100%;"></a></p>
-<h1>Week 2</h1>
-<h2>Handle the issue with week1</h2>
-<h3>Problem 1 :  to prevent movement issue</h3>
-<p>If the coupling of a regular tire is ground unevenly, the movement of the small vehicle will be affected. However, this issue does not occur when using Mecanum wheels. The wheels were successfully installed. During the final test, one wheel was found to be slightly loose.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/e7877508-a7ca-456c-b919-a7c7dc40d365"><img src="https://github.com/user-attachments/assets/e7877508-a7ca-456c-b919-a7c7dc40d365" alt="Image" style="max-width: 100%;"></a></p>
-<h3>Problem 2 : make battery removal easier</h3>
-<p>Using zip ties instead of glue to secure the battery can prevent situations where wiring errors make battery removal impossible, as some wires are located on the back of the battery. After removing the previously zip ties which are tangled complicatedly, the battery was secured with a simpler binding method.</p>
-<h2>Burn raspberry Pi OS to an SD Card</h2>
-<p>Download and install Raspberry Pi Imager. Then Insert the SD card. After selecting SD card and  Operating System, Burning can be stared. Wait for the writing process to complete, and the Imager will automatically eject the SD card. After Burning is complete, it is required to configure WiFi, SSH and  language...</p>
-<h3>Create  a virtual environment</h3>
-<p>Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.</p>
-<h3>Connect WiFi</h3>
-<p>Found that wireless connection to the school's campus network was not possible.</p>
-<h1>Week 3</h1>
-<h2>Import the test code for motion</h2>
-<p>We successfully resolved the network connection issue. Now we can test the code for the car's operation.<br>
-<a href="https://github.com/user-attachments/assets/11ad9070-86e4-4351-91ab-22c2cbb3d37e">https://github.com/user-attachments/assets/11ad9070-86e4-4351-91ab-22c2cbb3d37e</a><br>
-Therefore, we have confirmed that the car and the code can function properly.</p>
-<h2>OpenCV</h2>
-<p>The computer vision part is based on OpenCV for target recognition and path tracking. The camera can capture real-time images of the environment. After that, through the color space conversion, identify the target color and Canny algorithm to identify the path or obstacle contour, match the contour detection with the shape to achieve the identification and tracking of specific targets. Next, the algorithm is used to lock the target and adjust the direction of travel of the trolley according to the target position to realize autonomous tracking. Finally, by detecting the road edge line through the Hough transform and combining with the PID control algorithm, the trajectory of the McNamee wheel is adjusted to stabilize the trolley along the predetermined path.</p>
-<h2>Face Recognition</h2>
-<p>Lifting the camera up and pointing it at the group's face, an inspection of the program's runtime screen revealed that accurate face recognition was indeed available. The car stopped running when a face was recognized.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/1e710760-4593-4bf8-a752-5277a49673dd"><img src="https://github.com/user-attachments/assets/1e710760-4593-4bf8-a752-5277a49673dd" alt="Image" style="max-width: 100%;"></a></p>
-<h1>week4</h1>
-<h2>visual cruise test</h2>
-<p>In the visual cruise test, it was found in the program interface that the camera could accurately identify and outline the black area,.</p>
-<h2>McNamee Wheel Omnidirectional Movement Test</h2>
-<p>Pressure testing under constant-speed linear motion revealed cumulative lateral deviation. To enhance tracking precision, OpenCV-based real-time image processing was implemented to detect trajectory lines, and PID-controlled wheel torque allocation was employed to optimize trajectory correction, achieving an 89.7% reduction in lateral deviation.</p></div>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228"><img src="https://github.com/user-attachments/assets/2113eac6-39a3-461f-8f79-90a258779228" alt="Image" style="max-width: 100%;"></a></p></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
