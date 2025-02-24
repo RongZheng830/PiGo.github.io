@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Raspberry Pi Car</title><link>https://RongZheng830.github.io/PiGo.github.io</link><description>Year 2 Project</description><copyright>Raspberry Pi Car</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RongZheng830.github.io/PiGo.github.io</link></image><lastBuildDate>Mon, 24 Feb 2025 16:44:57 +0000</lastBuildDate><managingEditor>Raspberry Pi Car</managingEditor><ttl>60</ttl><webMaster>Raspberry Pi Car</webMaster><item><title>Week4</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week4.html</link><description># week4
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Raspberry Pi Car</title><link>https://RongZheng830.github.io/PiGo.github.io</link><description>Year 2 Project</description><copyright>Raspberry Pi Car</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RongZheng830.github.io/PiGo.github.io</link></image><lastBuildDate>Mon, 24 Feb 2025 16:48:07 +0000</lastBuildDate><managingEditor>Raspberry Pi Car</managingEditor><ttl>60</ttl><webMaster>Raspberry Pi Car</webMaster><item><title>Week4</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week4.html</link><description># week4
 ## visual cruise test
 In the visual cruise test, it was found in the program interface that the camera could accurately identify and outline the black area,.
 ## McNamee Wheel Omnidirectional Movement Test
@@ -34,8 +34,7 @@ Using zip ties instead of glue to secure the battery can prevent situations wher
 Activate the virtual environment matters a lot. Before configuring WiFi, SSH and  language, a virtual environment should be created.
 
 ### Connect WiFi
-Found that wireless connection to the school's campus network was not possible. 
-。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/Week2.html</guid><pubDate>Mon, 24 Feb 2025 16:32:58 +0000</pubDate></item><item><title>Week1</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week1.html</link><description>![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
+Found that wireless connection to the school's campus network was not possible. 。</description><guid isPermaLink="true">https://RongZheng830.github.io/PiGo.github.io/post/Week2.html</guid><pubDate>Mon, 24 Feb 2025 16:32:58 +0000</pubDate></item><item><title>Week1</title><link>https://RongZheng830.github.io/PiGo.github.io/post/Week1.html</link><description>![Image](https://github.com/user-attachments/assets/94fb9202-74d2-49bc-ae0d-d3c7552f86f0)
 
 # Week 1
 
