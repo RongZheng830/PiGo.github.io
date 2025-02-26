@@ -1,1 +1,1 @@
-<img width="2245" alt="Image" src="https://github.com/user-attachments/assets/d5155e30-0147-4555-aff1-6327f617bfb9" />
+[elec222(5）.pdf](https://github.com/user-attachments/files/18989357/elec222.5.pdf)
